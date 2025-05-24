@@ -41,7 +41,6 @@
       "summary": "Gained comprehensive experience through rotations in planning, material control and purchasing.",
       "highlights": ["Outstanding Employee in 2018"]
     }
-    
   ],
   "volunteer": [
     {
@@ -76,7 +75,6 @@
       "score": "3.86",
       "courses": ["Database System", "Algorithms", "Distributed System","Data Analysis", "Deep Learning"]
     }
-    
   ],
   "awards": [
     {
@@ -131,15 +129,10 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        ""
       ]
     }
   ]
