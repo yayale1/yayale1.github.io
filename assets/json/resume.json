@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Siqi Du",
+    "label": "Graduate Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "siqidu3@illinois.edu",
+    "phone": "(217) 480-2194",
+    "url": "https://yayale1.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "IL 61802",
+      "city": "Champaign",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
     "profiles": [
       {
@@ -47,15 +47,14 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Illinois, Urbana-Champaign",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Industrail Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2024-08",
+      "expectedEndDate": "2029-05",
+      "score": "4.0",
+      "courses": ["Control Theory","Convex Optimization", "Random Processes"]
     }
   ],
   "awards": [
@@ -151,7 +150,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
