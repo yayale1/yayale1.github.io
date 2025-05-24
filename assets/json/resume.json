@@ -24,14 +24,24 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Sunny Optical Technology (Group) Co., Ltd",
+      "position": "Project Engineer",
+      "url": "https://www.sunnyoptical.com/en/default.html",
+      "startDate": "2019-06-24",
+      "endDate": "2021-06-11",
+      "summary": "Project Management: Created plans and monitored projects including status, changes, and budget management, steering 7 projects from design to mass production with a cumulative output over 40 million units.",
+      "highlights": ["Outstanding Employee in 2020"]
+    },
+    {
+      "name": "Sunny Optical Technology (Group) Co., Ltd",
+      "position": "Management Trainee",
+      "url": "https://www.dbappsecurity.com.cn/",
+      "startDate": "2018-06-11",
+      "endDate": "2019-06-21",
+      "summary": "Gained comprehensive experience through rotations in planning, material control and purchasing.",
+      "highlights": ["Outstanding Employee in 2018"]
     }
+    
   ],
   "volunteer": [
     {
@@ -48,14 +58,25 @@
   "education": [
     {
       "institution": "University of Illinois, Urbana-Champaign",
-      "url": "https://www.uzh.ch/",
+      "url": "https://illinois.edu",
       "area": "Industrail Engineering",
       "studyType": "PhD",
       "startDate": "2024-08",
       "expectedEndDate": "2029-05",
       "score": "4.0",
       "courses": ["Control Theory","Convex Optimization", "Random Processes"]
+    },
+    {
+      "institution": "University of Illinois, Urbana-Champaign",
+      "url": "https://illinois.edu",
+      "area": "Industrail Engineering",
+      "studyType": "Master",
+      "startDate": "2022-08",
+      "expectedEndDate": "2024-05",
+      "score": "3.86",
+      "courses": ["Database System", "Algorithms", "Distributed System","Data Analysis", "Deep Learning"]
     }
+    
   ],
   "awards": [
     {
