@@ -58,7 +58,7 @@
     {
       "institution": "University of Illinois, Urbana-Champaign",
       "url": "https://illinois.edu",
-      "area": "Industrail Engineering",
+      "area": "Industrial Engineering",
       "studyType": "PhD",
       "startDate": "2024-08",
       "expectedEndDate": "2029-05",
@@ -68,7 +68,7 @@
     {
       "institution": "University of Illinois, Urbana-Champaign",
       "url": "https://illinois.edu",
-      "area": "Industrail Engineering",
+      "area": "Industrial Engineering"
       "studyType": "Master",
       "startDate": "2022-08",
       "expectedEndDate": "2024-05",
@@ -80,7 +80,7 @@
     {
       "title": "",
       "date": "",
-      "awarder": ",
+      "awarder": "",
       "url": "",
       "summary": ""
     }
